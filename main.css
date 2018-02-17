@@ -1,3 +1,8 @@
+body {
+    background-color: #eee;
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/spiration-dark.png);
+}
+
 .bg-light{background-color: rgba(0, 0, 0, 0.404) !important}
 
 #reg_box, #login_box, #office1,#office2,#office3,#office4,#office5  {
