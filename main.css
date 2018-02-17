@@ -5,6 +5,16 @@ body {
 
 .bg-light{background-color: rgba(0, 0, 0, 0.404) !important}
 
+.card {
+    background-color: rgba(170, 170, 170, 0.575);
+    color: #eee;
+    box-shadow: 0 1px 2px 5px rgba(170, 170, 170, 0.575);
+    border: none
+}.card:hover {
+    box-shadow: 0 0px 0px 0px transparent;
+    border: 1px solid #fff
+}
+
 #reg_box, #login_box, #office1,#office2,#office3,#office4,#office5  {
     display: none;
     background-color: rgba(0,0,0,0.5);
