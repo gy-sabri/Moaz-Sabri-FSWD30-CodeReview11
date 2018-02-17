@@ -3,6 +3,7 @@
 
     include_once 'dbconnect.php'
     include_once 'order.php';
+    include_once 'login.php';
     include_once 'navbar.php';
 ?>
 <center class="mt-70 container">
