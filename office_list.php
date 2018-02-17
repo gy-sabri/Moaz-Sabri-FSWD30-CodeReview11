@@ -2,7 +2,6 @@
     session_start(); // start a new session or continues the previous
 
     include_once 'dbconnect.php'
-    include_once 'order.php';
     include_once 'login.php';
     include_once 'navbar.php';
 ?>
